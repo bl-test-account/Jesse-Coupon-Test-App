@@ -1,0 +1,11 @@
+  p {
+    color: black;
+  }
+
+  .container {
+    padding:0px 10px
+  }
+
+  #status {
+    color: red;
+  }
